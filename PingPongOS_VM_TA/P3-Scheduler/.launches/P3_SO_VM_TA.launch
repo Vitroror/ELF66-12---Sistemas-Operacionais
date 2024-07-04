@@ -4,7 +4,7 @@
 <stringAttribute key="com.ti.ccstudio.debug.debugModel.ATTR_PROGRAM.target_config.ccxml.Stellaris In-Circuit Debug Interface_0/CORTEX_M4_0" value="${build_artifact:P3_SO_VM_TA}"/>
 <stringAttribute key="com.ti.ccstudio.debug.debugModel.ATTR_PROJECT.target_config.ccxml.Stellaris In-Circuit Debug Interface_0/CORTEX_M4_0" value="P3_SO_VM_TA"/>
 <stringAttribute key="com.ti.ccstudio.debug.debugModel.ATTR_TARGET_CONFIG" value="${target_config_active_default:P3_SO_VM_TA}"/>
-<stringAttribute key="com.ti.ccstudio.debug.debugModel.MRU_PROGRAM.target_config.ccxml.Stellaris In-Circuit Debug Interface_0/CORTEX_M4_0" value="C:/Users\victo\OneDrive\UTFPR\2024.1\Sistemas_Operacionais\GIT - SO\ELF66-12---Sistemas-Operacionais\P3_SO_VM_TA\Debug\P3_SO_VM_TA.out"/>
+<stringAttribute key="com.ti.ccstudio.debug.debugModel.MRU_PROGRAM.target_config.ccxml.Stellaris In-Circuit Debug Interface_0/CORTEX_M4_0" value="C:/Users\victo\OneDrive\UTFPR\2024.1\Sistemas_Operacionais\GIT - SO\ELF66-12---Sistemas-Operacionais\PingPongOS_VM_TA\P3-Scheduler\Debug\P3_SO_VM_TA.out"/>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
 <listEntry value="/P3_SO_VM_TA"/>
 </listAttribute>
