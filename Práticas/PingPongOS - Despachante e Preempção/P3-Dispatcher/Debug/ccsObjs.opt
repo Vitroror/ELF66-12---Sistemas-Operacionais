@@ -1,0 +1,1 @@
+"./dispatcher.obj" "./fila.obj" "./main.obj" "./microcontext.obj" "./microcontext_assembly.obj" "./ppos_core.obj" "./startup_ccs.obj" "./drivers/pinout.obj" "./utils/uartstdio.obj" "../hello_ccs.cmd" -llibc.a -l"C:/ti/tivaware_c_series_2_1_4_178/driverlib/ccs/Debug/driverlib.lib" 
