@@ -1,7 +1,6 @@
 Este repositório contem códigos referentes a atividades da disciplina de Sistemas Operacionais (ELF66)
 
 # # # Práticas
-# # Conteúdos
 # Compilação
 **Descrição**: Atividade introdutória com objetivo de esclarecer como compilar e executar códigos em C diretamente do shell Linux.
 
@@ -20,7 +19,6 @@ Este repositório contem códigos referentes a atividades da disciplina de Siste
 # PingPongOS - Despachante e Preempção
 **Descrição**: Atividades de implementação de um sistema operacional, especificamente o processo Despachante, e a rotina de preempção temporal para escalonamento. Baseada nos projetos didáticos do Prof. Carlos Maziero.
 
+
 # # # Trabalho Final - SO Embarcado
-# # Conteúdos
-# Trabalho final - Comunicação Serial
 **Descrição**: Trabalho final da disciplina. Implementaçao de um Sistema Operacional Embarcado (FreeRTOS) na placa TIVA-C EKTM4C1294XL. Implementação de Sistema de Luz de Emergência.
